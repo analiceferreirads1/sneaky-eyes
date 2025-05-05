@@ -1,1 +1,1 @@
-# sneaky-eyes
+# sneaky-eyes.svg
